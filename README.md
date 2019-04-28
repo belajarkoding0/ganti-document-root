@@ -1,4 +1,5 @@
 # ganti-document-root
+ganti document root Apache2 di linux
 
 Sebelum melakukan konfigurasi untuk merubah letak root folder web server apache tersebut, saya akan membuat folder baru yang
 nantinya akan digunakan sebagai root folder web server apache. 
